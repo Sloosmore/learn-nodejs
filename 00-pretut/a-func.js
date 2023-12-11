@@ -32,4 +32,7 @@ async function order() {
   }
 }
 
-order();
+order()
+.then(()=> {
+  console.log('hgldkj')
+});
