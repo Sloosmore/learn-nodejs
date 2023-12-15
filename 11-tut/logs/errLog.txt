@@ -1,2 +1,0 @@
-20231214	13:53:08	d4352a98-97ee-43f2-ae7a-353f15822ba4	TypeError: allowedOrgins.includes is not a function
-20231214	13:53:08	0fc0aa7e-7605-49b7-af5f-457b90620603	TypeError: allowedOrgins.includes is not a function
