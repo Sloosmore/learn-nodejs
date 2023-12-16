@@ -1,0 +1,10 @@
+20231214	13:53:08	d4352a98-97ee-43f2-ae7a-353f15822ba4	TypeError: allowedOrgins.includes is not a function
+20231214	13:53:08	0fc0aa7e-7605-49b7-af5f-457b90620603	TypeError: allowedOrgins.includes is not a function
+20231215	15:51:54	d0238004-2f87-4588-b301-b7346dd35524	TypeError: allowedOrgins.includes is not a function
+20231215	15:54:31	ffbf73a8-999e-46eb-a55e-f41c1ed2d041	TypeError: allowedOrgins.includes is not a function
+20231215	15:54:33	d85c039a-d03f-4a9f-b6f4-f93ebdf85639	TypeError: allowedOrgins.includes is not a function
+20231215	15:54:35	c3113a7d-4650-4d5b-98f5-3c9b26d6319b	TypeError: allowedOrgins.includes is not a function
+20231215	15:54:36	c508bdda-a11f-40a6-939e-2c4d22306c8a	TypeError: allowedOrgins.includes is not a function
+20231215	15:54:36	0b15dd5e-b944-4a77-b91a-d22b9afbec88	TypeError: allowedOrgins.includes is not a function
+20231215	15:55:18	1deb4b2b-93a7-4760-989e-46e01c464da2	TypeError: allowedOrgins.includes is not a function
+20231215	22:11:13	dbbdd3e0-9425-4ceb-9f89-d8e7885cf747	TypeError: authHeader?.startWith is not a function
